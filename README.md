@@ -1,5 +1,4 @@
 # Cooking Ina Mo: Chaotic Desktop Filipino Cooking Game  
-## 📌 Game Link  
 🔗 [Play Cooking Ina Mo](https://jkarleris.github.io/CookingInaM0/)  
 
 **Cooking Ina Mo** is an offline cooking game that celebrates Filipino culture, focusing on the warmth and joy of traditional Filipino dishes. The game title, a playful nod to the Filipino taste for witty store names, also captures the heartfelt essence of home-cooked meals prepared by loving Filipino mothers.  
