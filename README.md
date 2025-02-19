@@ -66,4 +66,13 @@ This game promises to deliver a unique experience that blends humor, tradition, 
   - The **dog follows the player**, maintaining a respectful distance.  
   - Players **click the dog to dispose of excess ingredients**, adding an interactive and playful resource management system.  
 
+Here's the formatted section for credits in your README file:  
+
+## Credits
+
+**Developed by:** [Karl Reyes](https://github.com/jkarleris)  
+**Co-Creator:** [ircoo](https://github.com/ircoo)  
+
+All assets and code were created exclusively for *Cooking Ina Mo* to ensure originality and avoid copyright issues.
+ 
 
