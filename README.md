@@ -64,9 +64,7 @@ This game promises to deliver a unique experience that blends humor, tradition, 
 ### 🧩 Innovative Code Implementation  
 - **Stray Dog Mechanic:**  
   - The **dog follows the player**, maintaining a respectful distance.  
-  - Players **click the dog to dispose of excess ingredients**, adding an interactive and playful resource management system.  
-
-Here's the formatted section for credits in your README file:  
+  - Players **click the dog to dispose of excess ingredients**, adding an interactive and playful resource management system.   
 
 ## Credits
 
